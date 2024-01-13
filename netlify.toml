@@ -1,0 +1,3 @@
+[build]
+  command = "dotnet build -c Release"
+  publish = "C:\Users\sofia\Desktop\Dor de Cabeça\MvcViaturas"
